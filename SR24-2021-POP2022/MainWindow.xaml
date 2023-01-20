@@ -1,0 +1,14 @@
+﻿<Window x:Class="SR24_2021_POP2022.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SR24_2021_POP2022"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Name="lblWelcome" Content="Welcome!"/>
+        <Button Name="btnStart" Content="Profesor" Height="100" Width="200" Click="btnStart_Click" RenderTransformOrigin="0.51,1.278" Margin="300,252,300,82"/>
+        <Button Name="btnStart2" Content="Student" Height="100" Width="200" Click="btnStart2_Click" RenderTransformOrigin="0.51,1.278" Margin="300,63,300,271"/>
+    </Grid>
+</Window>

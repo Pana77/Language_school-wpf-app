@@ -1,0 +1,7 @@
+1111;Peric;pera@gmail.com;peki;121346;MUSKI;STUDENT;True
+mika;Mikic;mika@gmail.com;zika;121346;ZENSKI;PROFESOR;True
+mihajlo;;mihajlo@gmail.com;;;MUSKI;PROFESOR;True
+skhfsdf;;brkic@gmail.com;;20385932;MUSKI;PROFESOR;True
+pero;;pero@gmail.com;;3523523;MUSKI;PROFESOR;False
+asoifj;;kslfa@gmail.com;;23904823;MUSKI;PROFESOR;True
+rrrrr;;asjkfha@Gmail.com;;124214;MUSKI;PROFESOR;True

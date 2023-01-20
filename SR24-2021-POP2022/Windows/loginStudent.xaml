@@ -1,0 +1,26 @@
+﻿<Window x:Class="SR24_2021_POP2022.Windows.loginStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SR24_2021_POP2022.Windows"
+        mc:Ignorable="d"
+        Title="loginStudent" Height="450" Width="800">
+    <Grid>
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.0.54"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="206,88,0,0" VerticalAlignment="Top" Height="26" Width="62"/>
+        <Label Content="Lozinka" Name="Lozinka" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="206,166,0,0" Width="56"/>
+        <TextBox Name="txtEmail" HorizontalAlignment="Left" Height="26" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="144" Margin="294,88,0,0" RenderTransformOrigin="0.5,0.5">
+        </TextBox>
+        <PasswordBox Name="txtLozinka" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="144" Margin="294,166,0,0"/>
+        <Button Content="Prijavi se" HorizontalAlignment="Left" VerticalAlignment="Top" Width="85" Margin="225,247,0,0" RenderTransformOrigin="-0.04,1.094" Click="Button_Click" Height="35"/>
+        <Button Content="Odustani" Name="ButtonOdustani" HorizontalAlignment="Left" Margin="424,247,0,0" VerticalAlignment="Top" Width="85" Height="35" Click="ButtonOdustani_Click"/>
+    </Grid>
+</Window>

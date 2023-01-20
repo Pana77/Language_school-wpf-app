@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR24-2021-POP2022", "SR24-2021-POP2022\SR24-2021-POP2022.csproj", "{1410813D-FD08-496E-BE5B-544838055B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF11-2019-POP2020", "..\..\..\Platforme OP - Vezbe\zdravstveni-sistem-wpf-app-master\SF11-2019-POP2020\SF11-2019-POP2020.csproj", "{9F902F16-DE59-4BFD-A088-7A387E77B01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "..\..\..\Desktop\Vezbe9\WpfApp2\WpfApp2\WpfApp2\WpfApp2.csproj", "{94C91228-EA11-4630-BC5B-62593AE299B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR38-2021-POP2022", "..\..\..\Desktop\find-your-mentor-desktop-app-main\SR38-2021-POP2022.csproj", "{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1410813D-FD08-496E-BE5B-544838055B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Debug|x86.Build.0 = Debug|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Release|x86.ActiveCfg = Release|Any CPU
+		{1410813D-FD08-496E-BE5B-544838055B03}.Release|x86.Build.0 = Release|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Debug|x86.Build.0 = Debug|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Release|x86.ActiveCfg = Release|Any CPU
+		{9F902F16-DE59-4BFD-A088-7A387E77B01A}.Release|x86.Build.0 = Release|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Debug|x86.Build.0 = Debug|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{94C91228-EA11-4630-BC5B-62593AE299B5}.Release|x86.Build.0 = Release|Any CPU
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Debug|x86.ActiveCfg = Debug|x86
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Debug|x86.Build.0 = Debug|x86
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Release|x86.ActiveCfg = Release|x86
+		{0DCA6E50-AA2F-4FB6-83D4-9DC7D2F881A0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB48611-7DA8-490E-801D-F0FE47B84A3D}
+	EndGlobalSection
+EndGlobal
