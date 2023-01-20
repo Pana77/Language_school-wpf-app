@@ -1,4 +1,5 @@
-# Aplikacija podržava sledeće funkcionalnosti:
+# Specifikacije 
+Aplikacija podržava sledeće funkcionalnosti:
 1. Neprijavljen tj. neregistrovan korisnik ima pregled svih škola na osnovu odabranog mesta i odabranih jezika. Takođe ima i pregled svih profesora koji rade u odabranoj školi. Nema mogućnost zakazivanja časova.
 2. Omogućiti neregistrovanim korisnicima (studentima) mogućnost registracije na sistem. Prilikom registracije unose se - ime, prezime, JMBG (jedinstven), pol, adresa, email, lozinka. Za novog korisnika se automatski formira prazna lista časova.
 3. Omogućiti korisnicima da se prijave i odjave sa sistema. Prilikom prijave na sistem korisnik unosi JMBG i lozinku sa kojom se registrovao.
